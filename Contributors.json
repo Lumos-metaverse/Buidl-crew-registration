@@ -6,4 +6,12 @@
     communities:["Lumos Labs", "EthGlobal", "GDG", "GDSC"],
     email: "kanishkonweb@gmail.com"
   }
+
+  {
+    name: "Samarth Saxena",
+    occupation: "Community Lead",
+    company: "Shardeum",
+    communities:["Lumos Labs", "EthGlobal", "Spheron", "Chainlink"],
+    email: "samkusaxena@gmail.com"
+  }
 ]
