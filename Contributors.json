@@ -6,4 +6,11 @@
     communities:["Lumos Labs", "EthGlobal", "GDG", "GDSC"],
     email: "kanishkonweb@gmail.com"
   }
+  {
+    name: "Kalyanasundaram V",
+    occupation: "Student at VIT Chennai , Frontend Developer",
+    learning Paths : "Azure Devops",
+    communities:["Lumos Labs", "DAO VIT-C"],
+    email: "abinav936@gmail.com"
+  }
 ]
