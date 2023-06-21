@@ -5,5 +5,8 @@
     company: "Lumos Labs",
     communities:["Lumos Labs", "EthGlobal", "GDG", "GDSC"],
     email: "kanishkonweb@gmail.com"
+  },
+  {
+    name: "john",
   }
 ]
