@@ -6,4 +6,10 @@
     communities:["Lumos Labs", "EthGlobal", "GDG", "GDSC"],
     email: "kanishkonweb@gmail.com"
   }
+  {
+    name: "Ganeshan M",
+    occupation: "Student",
+    communities:["Lumos Labs", "EthGlobal", "buildspace"],
+    email: "0xganesheth@gmail.com"
+  }
 ]
