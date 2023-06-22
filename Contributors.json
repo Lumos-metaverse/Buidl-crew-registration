@@ -1,5 +1,9 @@
 [
   {
+    name:"John Doe"
+    occupation: "Fulltime crypto trader"
+  },
+  {
     name: "Kanishk Khurana",
     occupation: "Developer Relations Engineer",
     company: "Lumos Labs",
@@ -25,5 +29,5 @@
     company: "Shardeum",
     communities:["Lumos Labs", "EthGlobal", "Spheron", "Chainlink"],
     email: "samkusaxena@gmail.com"
-  }
+  },  
 ]
