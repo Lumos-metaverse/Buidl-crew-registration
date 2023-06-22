@@ -7,9 +7,16 @@
     email: "kanishkonweb@gmail.com"
   },
   {
+    name: "Kalyanasundaram V",
+    occupation: "Student at VIT Chennai , Frontend Developer",
+    learning-paths : "Azure Devops",
+    communities:["Lumos Labs", "DAO VIT-C"],
+    email: "abinav936@gmail.com"
+  },
+  {
     name: "Ganeshan M",
     occupation: "Student",
     communities:["Lumos Labs", "EthGlobal", "buildspace"],
     email: "0xganesheth@gmail.com"
-  },
+  }
 ]
