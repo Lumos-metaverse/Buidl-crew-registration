@@ -26,4 +26,10 @@
     communities:["Lumos Labs", "EthGlobal", "Spheron", "Chainlink"],
     email: "samkusaxena@gmail.com"
   }
+  {
+    name: "Keerthi AJ",
+    occupation: "Student at VIT Chennai , Content Writer",
+    communities:["Lumos Labs", "DAO VIT-C" , "ACM"],
+    email: "keerthi.aj2004@gmail.com"
+  }
 ]
