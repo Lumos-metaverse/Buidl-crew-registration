@@ -1,4 +1,11 @@
 [
+   {
+    name: "Kanishk Khurana",
+    occupation: "Developer Relations Engineer",
+    company: "Lumos Labs",
+    communities:["Lumos Labs", "IEDC"],
+    email: "singhhardik14@gmail.com"
+  },
   {
     name: "Kanishk Khurana",
     occupation: "Developer Relations Engineer",
