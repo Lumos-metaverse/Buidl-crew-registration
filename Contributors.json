@@ -25,5 +25,12 @@
     company: "Shardeum",
     communities:["Lumos Labs", "EthGlobal", "Spheron", "Chainlink"],
     email: "samkusaxena@gmail.com"
-  }
+  },
+  {
+    name: "Harsh Soni",
+    occupation: "Developer Advocate",
+    company: "Router Protocol",
+    communities: ["Lumos Metaverse", "CoinDCX", "Foundership", "GirlScript", "GDG"],
+    email: "hashfx.prog@gmail.com"
+  },
 ]
