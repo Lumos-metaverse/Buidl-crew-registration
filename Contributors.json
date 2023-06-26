@@ -31,5 +31,11 @@
 		"occupation": "Software Developer, Network Defender, Problem Solving Skills",
 		"company": "Horse's Mouth, Kliquestart, INFarm",
 		"email": "shivanshu814pathak@gmail.com"
-	}
+	},
+  {
+    "name": "Debangshu Kantha",
+    "occupation": "Student at Heritage Institute of Technology , Kolkata",
+    "communities":["Lumos Labs", "Major League Hacking"],
+    "email": "kanthadebansghu97@gmail.com"
+  }
 ]
