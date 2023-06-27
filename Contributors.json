@@ -37,5 +37,11 @@
     "occupation": "Student at Heritage Institute of Technology , Kolkata",
     "communities":["Lumos Labs", "Major League Hacking"],
     "email": "kanthadebansghu97@gmail.com"
-  }
+  },
+  {
+    "name": "Dhruv Dabhi",
+    "occupation": "Student at Dharmsinh Desai University, Nadiad, Gujarat",
+    "communities":["Lumos Labs"],
+    "email": "dhruvdabhi101@gmail.com"
+  },
 ]
