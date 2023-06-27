@@ -1,4 +1,37 @@
 [
+	{
+		"name": "Kanishk Khurana",
+		"occupation": "Developer Relations Engineer",
+		"company": "Lumos Labs",
+		"communities": ["Lumos Labs", "EthGlobal", "GDG", "GDSC"],
+		"email": "kanishkonweb@gmail.com"
+	},
+	{
+		"name": "Kalyanasundaram V",
+		"occupation": "Student at VIT Chennai , Frontend Developer",
+		"learning-paths": "Azure Devops",
+		"communities": ["Lumos Labs", "DAO VIT-C"],
+		"email": "abinav936@gmail.com"
+	},
+	{
+		"name": "Ganeshan M",
+		"occupation": "Student",
+		"communities": ["Lumos Labs", "EthGlobal", "buildspace"],
+		"email": "0xganesheth@gmail.com"
+	},
+	{
+		"name": "Samarth Saxena",
+		"occupation": "Community Lead",
+		"company": "Shardeum",
+		"communities": ["Lumos Labs", "EthGlobal", "Spheron", "Chainlink"],
+		"email": "samkusaxena@gmail.com"
+	},
+	{
+		"name": "Shivanshu Pathak",
+		"occupation": "Software Developer, Network Defender, Problem Solving Skills",
+		"company": "Horse's Mouth, Kliquestart, INFarm",
+		"email": "shivanshu814pathak@gmail.com"
+	},
   {
     name: "Kanishk Khurana",
     occupation: "Developer Relations Engineer",
@@ -33,4 +66,10 @@
     communities: ["Lumos Metaverse", "CoinDCX", "Foundership", "GirlScript", "GDG"],
     email: "hashfx.prog@gmail.com"
   },
+  {
+    "name": "Debangshu Kantha",
+    "occupation": "Student at Heritage Institute of Technology , Kolkata",
+    "communities":["Lumos Labs", "Major League Hacking"],
+    "email": "kanthadebansghu97@gmail.com"
+  }
 ]
