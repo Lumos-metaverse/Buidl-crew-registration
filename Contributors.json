@@ -33,12 +33,6 @@
 		"email": "shivanshu814pathak@gmail.com"
 	},
 
-  {
-    "name": "Debangshu Kantha",
-    "occupation": "Student at Heritage Institute of Technology , Kolkata",
-    "communities":["Lumos Labs", "Major League Hacking"],
-    "email": "kanthadebansghu97@gmail.com"  
-  },
 	{
 		"name": "Tushar Pamnani",
 		"occupation": "Student at Shri Ramdeobaba College of Engineering and Management, Nagpur",
@@ -51,12 +45,12 @@
 		"communities": ["Lumos Labs", "DAO VIT-C", "ACM"],
 		"email": "123keerthi45@gmail.com"
 	},
-    {
-        "name": "Debangshu Kantha",
-        "occupation": "Student at Heritage Institute of     Technology , Kolkata",
-        "communities":["Lumos Labs", "Major League Hacking"],
-        "email": "kanthadebansghu97@gmail.com"
-    },
+	{
+	        "name": "Debangshu Kantha",
+	        "occupation": "Student at Heritage Institute of     Technology , Kolkata",
+	        "communities":["Lumos Labs", "Major League Hacking"],
+	        "email": "kanthadebansghu97@gmail.com"
+        },
 	{
 		"name": "Sameer Madhav D",
 		"occupation": "Student at Manipal University Jaipur",
