@@ -32,16 +32,38 @@
 		"company": "Horse's Mouth, Kliquestart, INFarm",
 		"email": "shivanshu814pathak@gmail.com"
 	},
-  {
-    "name": "Debangshu Kantha",
-    "occupation": "Student at Heritage Institute of Technology , Kolkata",
-    "communities":["Lumos Labs", "Major League Hacking"],
-    "email": "kanthadebansghu97@gmail.com"
-  },
+
+
+	{
+		"name": "Tushar Pamnani",
+		"occupation": "Student at Shri Ramdeobaba College of Engineering and Management, Nagpur",
+		"communities": ["Lumos Labs", "The CodeBreakers,RCOEM"],
+		"email": "tusharpamnani55@gmail.com"
+	},
+	{
+		"name": "Keerthi AJ",
+		"occupation": "Student at VIT Chennai , Content Writer",
+		"communities": ["Lumos Labs", "DAO VIT-C", "ACM"],
+		"email": "123keerthi45@gmail.com"
+	},
+	{
+	        "name": "Debangshu Kantha",
+	        "occupation": "Student at Heritage Institute of     Technology , Kolkata",
+	        "communities":["Lumos Labs", "Major League Hacking"],
+	        "email": "kanthadebansghu97@gmail.com"
+        },
+	{
+		"name": "Sameer Madhav D",
+		"occupation": "Student at Manipal University Jaipur",
+		"communities": ["Lumos Labs", "Lumos Wizard Comunity", "MUJ Central"],
+		"email": "sameermadhav.5@gmail.com"
+	},
   {
         "name": "Dhruv Dabhi",
         "occupation": "Student at Dharmsinh Desai University, Nadiad, Gujarat",
         "communities":["Lumos Labs"],
         "email": "dhruvdabhi101@gmail.com"
-  },
+  }
+
+
 ]
