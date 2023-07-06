@@ -33,6 +33,7 @@
 		"email": "shivanshu814pathak@gmail.com"
 	},
 
+
 	{
 		"name": "Tushar Pamnani",
 		"occupation": "Student at Shri Ramdeobaba College of Engineering and Management, Nagpur",
@@ -56,6 +57,13 @@
 		"occupation": "Student at Manipal University Jaipur",
 		"communities": ["Lumos Labs", "Lumos Wizard Comunity", "MUJ Central"],
 		"email": "sameermadhav.5@gmail.com"
-	}
+	},
+  {
+        "name": "Dhruv Dabhi",
+        "occupation": "Student at Dharmsinh Desai University, Nadiad, Gujarat",
+        "communities":["Lumos Labs"],
+        "email": "dhruvdabhi101@gmail.com"
+  }
+
 
 ]
