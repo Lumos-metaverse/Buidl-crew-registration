@@ -36,8 +36,14 @@
     "name": "Debangshu Kantha",
     "occupation": "Student at Heritage Institute of Technology , Kolkata",
     "communities":["Lumos Labs", "Major League Hacking"],
-    "email": "kanthadebansghu97@gmail.com"
-  }
+    "email": "kanthadebansghu97@gmail.com"  
+  },
+	{
+		"name": "Tushar Pamnani",
+		"occupation": "Student at Shri Ramdeobaba College of Engineering and Management, Nagpur",
+		"communities": ["Lumos Labs", "The CodeBreakers,RCOEM"],
+		"email": "tusharpamnani55@gmail.com"
+	}
 	{
 		"name": "Keerthi AJ",
 		"occupation": "Student at VIT Chennai , Content Writer",
