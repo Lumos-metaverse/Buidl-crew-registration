@@ -59,11 +59,20 @@
 		"email": "sameermadhav.5@gmail.com"
 	},
   {
+
         "name": "Dhruv Dabhi",
         "occupation": "Student at Dharmsinh Desai University, Nadiad, Gujarat",
         "communities":["Lumos Labs"],
         "email": "dhruvdabhi101@gmail.com"
-  }
+
+  },
+    {
+    "name": "Harsh Soni",
+    "occupation": "Developer Advocate",
+    "company": "Router Protocol",
+    "communities": ["Lumos Metaverse", "CoinDCX", "Foundership", "GirlScript", "GDG"],
+    "email": "hashfx.prog@gmail.com"
+  },
 
 
 ]
