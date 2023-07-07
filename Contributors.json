@@ -72,7 +72,12 @@
     "company": "Router Protocol",
     "communities": ["Lumos Metaverse", "CoinDCX", "Foundership", "GirlScript", "GDG"],
     "email": "hashfx.prog@gmail.com"
-  },
-
+  },{
+    "name": "Neeraj Choubisa",
+    "occupation": "Full Stack Blockchain Developer",
+    "company": "Buildorz,Zoth.io,Xcavate.io",
+    "communities": ["Dapp World", "Spheron", "Tezos India", "GirlScript"],
+    "email": "neerajchoubisa876@gmail.com"
+}
 
 ]
