@@ -73,6 +73,10 @@
     "communities": ["Lumos Metaverse", "CoinDCX", "Foundership", "GirlScript", "GDG"],
     "email": "hashfx.prog@gmail.com"
   },
-
-
+	{
+		"name": "Ankit Gupta",
+		"occupation": "Student at Manipal University Jaipur",
+		"communities": ["Lumos Labs", "Lumos Wizard Comunity", "Graph Advocate", "Polygon Jaipur"],
+		"email": "codeinja7@gmail.com"
+	},
 ]
